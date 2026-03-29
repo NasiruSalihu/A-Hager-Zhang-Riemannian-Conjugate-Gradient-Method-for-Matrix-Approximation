@@ -1,0 +1,10 @@
+KMUTT License
+Copyright (c) 2026 [Your Name / Lab / KMUTT]
+
+This MATLAB code is provided for research and educational purposes,
+specifically to reproduce experiments using Manopt CG methods.
+
+You may run, study, or modify this code within KMUTT or for non-commercial academic use.
+
+Any redistribution, publishing, or commercial use outside KMUTT
+requires prior written permission.
