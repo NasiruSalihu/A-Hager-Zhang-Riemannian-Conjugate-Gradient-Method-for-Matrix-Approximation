@@ -51,7 +51,12 @@ example2    % Runs 100 trials for Example 2.2: Rayleigh-Quotient Minimization on
 ### 1. Prepare MATLAB Environment
 Run the setup script to add Manopt and your MATLAB code to the MATLAB path:
 
-```matlab
-setup
-cd matlab_code
+## License
+
+- **Manopt Toolbox:** GPL v3 (`LICENSE_GPLv3.txt`)  
+  - Copyright (C) 2009-2021 Nicolas Boumal
+  - See <http://www.gnu.org/licenses/> for full license
+- **MATLAB Experiment Code:** KMUTT License (`LICENSE_KMUTT.txt`)  
+  - Copyright (c) 2026 [Your Name / Lab / KMUTT]  
+  - For research and educational use only; redistribution requires permission 
 
